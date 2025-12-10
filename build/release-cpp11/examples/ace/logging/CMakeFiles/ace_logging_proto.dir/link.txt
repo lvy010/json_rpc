@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libace_logging_proto.a CMakeFiles/ace_logging_proto.dir/logrecord.pb.cc.o
+/usr/bin/ranlib ../../../lib/libace_logging_proto.a

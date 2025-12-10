@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libmuduo_protorpc_wire.a CMakeFiles/muduo_protorpc_wire.dir/rpc.pb.cc.o CMakeFiles/muduo_protorpc_wire.dir/RpcCodec.cc.o
+/usr/bin/ranlib ../../../lib/libmuduo_protorpc_wire.a
