@@ -1,0 +1,14 @@
+# Highlight C++ as primary language
+*.cpp linguist-language=C++
+*.cc  linguist-language=C++
+*.cxx linguist-language=C++
+*.h   linguist-language=C++
+*.hpp linguist-language=C++
+
+# De-emphasize build/meta files
+build/**        linguist-vendored
+CMakeLists.txt  linguist-vendored
+*.cmake         linguist-vendored
+Makefile        linguist-vendored
+*.mk            linguist-vendored
+
